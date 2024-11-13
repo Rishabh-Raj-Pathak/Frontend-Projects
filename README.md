@@ -13,7 +13,7 @@ A collection of 4 responsive frontend projects built with HTML, CSS, and JavaScr
 3. ### [Piano](https://playable-piano20.netlify.app/)
    A playable digital piano with realistic key sounds. Click the keys on your screen to make music, or use your keyboard for a full experience!
 
-4. ### [Drawing App](https://playable-piano20.netlify.app/)
+4. ### [Drawing App](https://drawing-app-14.netlify.app/)
    A digital drawing app that lets you sketch and doodle. Choose from various colors and brush sizes to bring your creativity to life.
 
 ## Technologies Used
